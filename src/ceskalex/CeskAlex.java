@@ -18,6 +18,8 @@ public class CeskAlex {
         // TODO code application logic here
         System.out.println("Hola Mundo.");
         System.out.println("Adiòs Mundo.");
+        System.out.println("qwerty");
+        System.out.println("asdfg");
     }
     
 }
